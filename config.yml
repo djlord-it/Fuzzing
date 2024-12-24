@@ -1,0 +1,11 @@
+modbus:
+  host: "127.0.0.1"
+  port: 5020
+  timeout: 3
+  retries: 3
+
+signal:
+  sample_rate: 1000
+  duration: 1.0
+  trigger_threshold: 0.3
+  noise_threshold: 0.1
