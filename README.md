@@ -58,7 +58,7 @@ This project aligns with the methods and concepts presented in the referenced pa
 1. Clone the repository:
    ```bash
    git clone https://github.com/djlord-it/Fuzzing.git
-   cd em-signal-analyzer
+   cd Fuzzing
    ```
 
 2. Install dependencies:
